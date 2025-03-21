@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="742a6d47-7252-48dd-91ce-78d5b583e87b" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/grammar/calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/hello/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/hello/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/hello/chengfabiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/hello/findScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/hello/getBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/hello/getRandomNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/hello/guessHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/hello/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/hello/score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/hello/season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/comment/hello/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/project/project/marketPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/project/project/systemeModelPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/report_bil/report_bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;youngninsa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/youngninsa/JavaLearn&quot;,
+    &quot;accountId&quot;: &quot;f15167ed-add4-4d40-a38c-c84e50f430f5&quot;
+  }
+}</component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="none" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2tDmABRoFmj1YiXAKenZCaJYZv4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/Code/java_code/learn/test/src/Main.java",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.For.executor": "Run",
+    "应用程序._1.executor": "Run",
+    "应用程序._2.executor": "Run",
+    "应用程序.array.executor": "Run",
+    "应用程序.calculate.executor": "Run",
+    "应用程序.chengfabiao.executor": "Run",
+    "应用程序.example.executor": "Run",
+    "应用程序.example1.executor": "Run",
+    "应用程序.example2.executor": "Run",
+    "应用程序.example4.executor": "Run",
+    "应用程序.findScore.executor": "Run",
+    "应用程序.getBMI.executor": "Run",
+    "应用程序.getRandomNum.executor": "Run",
+    "应用程序.guessHand.executor": "Run",
+    "应用程序.hello.executor": "Run",
+    "应用程序.hobby (1).executor": "Run",
+    "应用程序.hobby (2).executor": "Run",
+    "应用程序.hobby.executor": "Run",
+    "应用程序.kebiao.executor": "Run",
+    "应用程序.marketPurchase.executor": "Run",
+    "应用程序.report_bill.executor": "Run",
+    "应用程序.reprt_bill.executor": "Run",
+    "应用程序.run.executor": "Run",
+    "应用程序.score.executor": "Run",
+    "应用程序.season.executor": "Run",
+    "应用程序.systemeModelPrint.executor": "Run",
+    "应用程序.test.executor": "Run"
+  }
+}]]></component>
+  <component name="RunManager" selected="应用程序.systemeModelPrint">
+    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comment.hello.array" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comment.hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comment.grammar.calculate" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comment.grammar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="marketPurchase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.project.marketPurchase" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="report_bill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="report_bil.report_bill" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="report_bil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="systemeModelPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.project.systemeModelPrint" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.systemeModelPrint" />
+        <item itemvalue="应用程序.report_bill" />
+        <item itemvalue="应用程序.marketPurchase" />
+        <item itemvalue="应用程序.calculate" />
+        <item itemvalue="应用程序.array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\NINSA\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="742a6d47-7252-48dd-91ce-78d5b583e87b" name="更改" comment="" />
+      <created>1739894873341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739894873341</updated>
+      <workItem from="1739894874416" duration="653000" />
+      <workItem from="1741152361823" duration="541000" />
+      <workItem from="1741152925899" duration="1077000" />
+      <workItem from="1741156205917" duration="6498000" />
+      <workItem from="1741220833897" duration="10613000" />
+      <workItem from="1741532549444" duration="534000" />
+      <workItem from="1741598376174" duration="2097000" />
+      <workItem from="1741701487627" duration="671000" />
+      <workItem from="1741757086126" duration="10716000" />
+      <workItem from="1741825171068" duration="11338000" />
+      <workItem from="1742209068827" duration="6288000" />
+      <workItem from="1742362108458" duration="9017000" />
+      <workItem from="1742374554181" duration="674000" />
+      <workItem from="1742430230796" duration="11047000" />
+      <workItem from="1742461250469" duration="1955000" />
+      <workItem from="1742532474578" duration="799000" />
+      <workItem from="1742533285383" duration="220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
